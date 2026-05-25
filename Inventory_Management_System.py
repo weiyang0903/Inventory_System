@@ -1,5 +1,6 @@
 '''
-INVENTORY MANAGEMENT SYSTEM
+INVENTORY MANAGEMENT SYSTEM (Stationery Store)
+Developed by: Chin Wei Yang
 '''
 import os
 import time
