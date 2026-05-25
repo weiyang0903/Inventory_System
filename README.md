@@ -37,7 +37,7 @@ The user interacts with the application through a command-line interface (CLI). 
 - **Linked category**: A category cannot be deactivated if products are still linked to it, preventing broken references.
 
 ### Technology Choice
-Python was chosen because it is straightforward to implement a CLI application with minimal setup. Python's built-in `os` and `time` modules provide everything needed for file I/O and timestamps without requiring any third-party packages. It is also easy to read and maintain, which suits the scope of this project.
+Python was chosen because it is straightforward to implement a CLI application with minimal setup. Python's built-in `os` and `time` modules provide everything needed for file I/O and timestamps without requiring any third-party packages. It is also easy to read and maintain, which suits the scope of this project. Besides that, Python's readable syntax also makes code review easier for assessor.
 
 ## 🚀 Getting Started
 
