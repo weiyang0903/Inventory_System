@@ -718,11 +718,19 @@ def edit_product():
 def activate_deactivate_product():
 
     view_products()
-    product_id = input("Enter the product ID to activate/deactivate (Enter 0 to cancel): ")
-    if product_id == "0":
-        print("Operation cancelled.")
-        input("Press Enter to continue...")
-        return False
+    while True:
+        product_id = input("\nEnter the product ID to activate/deactivate (Enter 0 to cancel): ").upper()
+
+        if product_id == "0":
+            print("Operation cancelled.")
+            input("Press Enter to continue...")
+            return False
+        
+        if not product_id:
+            print("Product ID cannot be empty. Please try again.")
+            continue
+        break
+
     products = read_file(PRODUCTS_FILE)
 
     found = False
