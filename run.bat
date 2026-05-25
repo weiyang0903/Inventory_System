@@ -1,3 +1,3 @@
 @echo off
-python Inventory_system.py
+python Inventory_Management_System.py
 pause
