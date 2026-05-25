@@ -1,0 +1,55 @@
+PR1|Pilot|CA1|6.99|12|1
+PR2|Faber Castel|CA1|2.98|18|1
+PR3|Staedtler Noris HB Pencil|CA1|3.5|30|1
+PR4|Mitsubishi Uni Pencil|CA1|5.0|50|1
+PR5|Tombow Mono 100 Pencil|CA1|6.5|48|1
+PR6|Faber-Castell Dust-Free Eraser|CA2|1.2|50|1
+PR7|Staedtler Mars Plastic Eraser|CA2|2.5|60|1
+PR8|Pilot Foam Eraser|CA2|2.0|50|1
+PR9|Pentel Hi-Polymer Eraser|CA2|2.0|40|1
+PR10|Tombow Mono Eraser|CA2|3.2|20|1
+PR11|Pilot G2 Gel Pen|CA3|3.2|50|1
+PR12|Pilot Spotliter (Yellow)|CA3|3.8|47|1
+PR13|Zebra Mildliner 1|CA3|5.5|50|1
+PR14|Deli Double Tip Highlighter (Yellow)|CA3|3.0|50|1
+PR15|PLUS Correction Tape|CA7|3.9|50|1
+PR16|Faber-Castell Correction Tape|CA7|4.2|20|1
+PR17|Pentel Correction Tape|CA7|4.8|40|1
+PR18|Tombow Mono Correction Tape|CA7|5.2|18|1
+PR19|A5 Spiral Notebook|CA4|3.5|20|1
+PR20|A4 Lined Notebook|CA4|5.0|20|1
+PR21|Hardcover Diary Notebook|CA4|12.0|20|1
+PR22|Cute Cartoon Notebook|CA4|4.2|20|1
+PR23|Grid Notebook (Mathematics)|CA4|3.8|20|1
+PR24|15cm Plastic Ruler|CA5|0.8|40|1
+PR25|30cm Transparent Ruler|CA5|1.5|40|1
+PR26|Flexible Rubber Ruler|CA5|2.8|40|1
+PR27|Foldable Ruler|CA5|3.0|40|1
+PR28|Stabilo Boss Highlighter|CA6|4.0|25|1
+PR29|Faber-Castell Highlighter|CA6|3.2|25|1
+PR30|Pilot Spotliter (Red)|CA6|3.8|25|1
+PR31|Zebra Mildliner 2|CA6|5.5|26|1
+PR32|Deli Double Tip Highlighter (Red)|CA6|3.0|25|1
+PR33|MAX Mini Stapler|CA8|6.5|35|1
+PR34|Deli No.10 Stapler|CA8|5.2|35|1
+PR35|Kangaro Stapler|CA8|8.0|35|1
+PR36|UHU Glue Stick|CA9|3.5|55|1
+PR37|Faber-Castell Glue Stick|CA9|2.9|55|1
+PR38|Deli Glue Stick|CA9|2.5|55|1
+PR39|Pelikan Glue Stick|CA9|3.0|55|1
+PR40|Pritt Glue Stick|CA9|3.8|50|1
+PR41|Sharpie Permanent Marker|CA10|4.0|50|1
+PR42|Artline 70 Marker|CA10|3.5|49|1
+PR43|Pilot Permanent Marker|CA10|2.9|18|1
+PR44|Faber-Castell Whiteboard Marker|CA10|2.9|20|1
+PR45|Staedtler Lumocolor Marker|CA10|5.8|20|1
+PR46|Zebra DelGuard Mechanical Pencil|CA1|9.9|20|1
+PR47|Faber-Castell Triangle Eraser|CA2|1.8|25|1
+PR48|Snowman Drawing Pen 0.5|CA3|3.6|33|1
+PR49|Student Exercise Book|CA4|1.2|50|1
+PR50|Deli Mini Handy Stapler|CA8|3.9|46|1
+PR51|Deli Correction Tape|CA7|4.8|30|1
+PR52|Metal Ruler 30cm|CA5|3.5|40|1
+PR53|Faber-Castell Stapler|CA8|4.8|35|1
+PR54|SDI Heavy Duty Stapler|CA8|15.99|35|1
+PR55|Artline Whiteboard Marker|CA10|3.2|48|1

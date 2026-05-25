@@ -1,0 +1,10 @@
+CA1|Pencil|1
+CA2|Eraser|1
+CA3|Pen|1
+CA4|Notebook|1
+CA5|Ruler|1
+CA6|Highlighter|1
+CA7|Correction Tape|1
+CA8|Stapler|1
+CA9|Glue Stick|1
+CA10|Marker|1
