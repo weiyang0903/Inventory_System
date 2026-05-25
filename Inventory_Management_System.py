@@ -438,14 +438,12 @@ def view_products(category_id=None, filter=None):
     category_names = {}
     for category_str in categories:
         category = Category.from_string(category_str)
-        if category and category.activation:
+        if category:
             category_names[category.category_id] = category.name
 
     filtered_products = []
     for product_str in products:
         product = Product.from_string(product_str)
-        # if not product.activation:
-        #     continue
         if category_id and category_id != product.category:
             continue
         filtered_products.append(product)
